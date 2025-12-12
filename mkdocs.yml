@@ -3,7 +3,7 @@ site_url: https://yawvr.itsvrk.com
 site_description: >-
   Documentation site for Yaw VR Hardware and Software
 repo_url: https://github.com/ItsVRK/itsvrk-yawvr.github.io
-repo_name: ItsVRK/itsvrk-yawvr.github.io
+repo_name: ItsVRK/yawvr
 edit_uri: edit/main/docs/
 theme:
   name: material
