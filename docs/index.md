@@ -9,9 +9,15 @@ To begin using your Yaw 3 simulator, follow these steps:
 
 -----------
 
-### [Yaw 3 Assembly](hardware/yaw3/assembly.md)
+### Yaw 3
+
+[Assembly](hardware/yaw3/assembly.md)
 
 Assemble your Yaw 3 device by following the step-by-step guide.
+
+Restore or update the [stock SD Card Image](hardware/yaw3/stocksdcard.md)
+
+Modify the Yaw 3 to have [Wifi6E](hardware/yaw3/wifi6e.md)
 
 ### [Yaw 2 Assembly](hardware/yaw2/assembly.md)
 

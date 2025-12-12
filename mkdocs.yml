@@ -1,9 +1,9 @@
-site_name: Yaw VR Documentation
-site_url: https://docs.yawvr.com
+site_name: Yaw VR Documentation by ItsVRK
+site_url: https://yawvr.itsvrk.com
 site_description: >-
   Documentation site for Yaw VR Hardware and Software
-repo_url: https://github.com/Yaw-VR/yaw-vr.github.io
-repo_name: Yaw-VR/yaw-vr.github.io
+repo_url: https://github.com/ItsVRK/itsvrk-yawvr.github.io
+repo_name: ItsVRK/itsvrk-yawvr.github.io
 edit_uri: edit/main/docs/
 theme:
   name: material
@@ -49,16 +49,18 @@ plugins:
   - social
 extra:
   social:
-    - icon: fontawesome/solid/globe
-      link: https://yawvr.com
     - icon: fontawesome/brands/youtube
-      link: https://youtube.com/YawVR
+      link: https://youtube.com/ItsVRK
     - icon: fontawesome/brands/discord
       link: https://discord.gg/pymFJxPRN4
+  video_mime_types:
+    - video/mp4
 nav:
   - Home: index.md
   - Hardware:
     - Yaw 3 Assembly: hardware/yaw3/assembly.md
+    - Stock SD Card: hardware/yaw3/stocksdcard.md
+    - Wifi6E Modification: hardware/yaw3/wifi6e.md
     - Yaw 2 Assembly: hardware/yaw2/assembly.md
     - Yaw 1 Assembly: hardware/yaw1/assembly.md
     - Balancing your Simulator: hardware/balance.md
@@ -71,3 +73,4 @@ nav:
     - VirtualHere: software/virtualhere.md
     - Yaw VR Emulator: software/yawvremu.md
     - Yaw VR SDK: software/sdk.md
+  - Support ItsVRK ❤️: https://www.buymeacoffee.com/itsvrk
